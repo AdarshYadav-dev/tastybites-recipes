@@ -12,10 +12,6 @@ A responsive and modern recipe website showcasing featured, popular, and categor
 
 ---
 
-## Demo
-You can view the live demo [here](#) *(replace with your live site link if hosted)*
-
----
 
 ## Features
 - **Responsive Design:** Works on mobile, tablet, and desktop.

@@ -1,4 +1,4 @@
-# TastyBites Recipes 🍴
+# TastyBites Recipes 
 
 A responsive and modern recipe website showcasing featured, popular, and categorized recipes using **HTML**, **TailwindCSS**, and **JavaScript**.
 
@@ -9,10 +9,6 @@ A responsive and modern recipe website showcasing featured, popular, and categor
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
